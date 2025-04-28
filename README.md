@@ -6,7 +6,7 @@ It uses data analysis and a LLaMA 3.2 model to create meaningful titles, bullet 
 
 ---
 
-## 🚀 Features
+## Features
 - Upload a CSV file and select a target column.
 - Choose visualization types: Scatter, Hexbin, Box, or Bar charts.
 - AI-generated:
@@ -17,7 +17,7 @@ It uses data analysis and a LLaMA 3.2 model to create meaningful titles, bullet 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **Python**
 - **Streamlit** – for the web application.
 - **pandas** – for data manipulation.
@@ -37,7 +37,7 @@ It uses data analysis and a LLaMA 3.2 model to create meaningful titles, bullet 
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
