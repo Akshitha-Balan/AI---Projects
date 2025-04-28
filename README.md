@@ -1,5 +1,5 @@
 
-# AI-Based PPT Generator
+# PPT Generation from CSV
 
 This project is an **AI-powered Streamlit web application** that automatically generates presentation slides from uploaded CSV files.  
 It uses data analysis and a LLaMA 3.2 model to create meaningful titles, bullet points, charts, and detailed insights.
@@ -35,11 +35,4 @@ It uses data analysis and a LLaMA 3.2 model to create meaningful titles, bullet 
 - Optionally, enter a custom prompt for LLaMA (like asking for a summary).
 - Download the generated .odp report after processing.
 
----
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
